@@ -1,0 +1,24 @@
+# Wize Development Kit — project config
+# Generated at install. Commit this file. Personal preferences live in user.toml.
+
+[project]
+name = "Simulado Enem Aprovejá"
+kit_version = "0.17.0"
+
+[install]
+profiles = ["core", "web-overlay", "security-overlay"]
+ide_targets = ["claude-code", "codex", "kimi-code", "hermes", "kiro", "opencode", "antigravity", "generic"]
+
+[language]
+# Language used when agents talk to the team in chat.
+communication = "pt-BR"
+# Language used when agents write artifacts to disk
+# (brief.md, prd.md, architecture.md, gate.md, etc.).
+document_output = "pt-BR"
+
+[paths]
+output_root    = ".wize"
+planning       = ".wize/planning"
+solutioning    = ".wize/solutioning"
+implementation = ".wize/implementation"
+knowledge      = ".wize/knowledge"

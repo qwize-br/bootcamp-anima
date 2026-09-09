@@ -1,0 +1,2168 @@
+{
+  "block_id": "dia-1",
+  "name": "Dia 1 — Linguagens, Códigos e Ciências Humanas",
+  "duration_seconds": 16200,
+  "total_questions": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "index": 1,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 1: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q2",
+      "index": 2,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 2: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q3",
+      "index": 3,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 3: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q4",
+      "index": 4,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 4: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.6,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q5",
+      "index": 5,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 5: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.75,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q6",
+      "index": 6,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 6: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q7",
+      "index": 7,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 7: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q8",
+      "index": 8,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 8: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q9",
+      "index": 9,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 9: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q10",
+      "index": 10,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 10: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q11",
+      "index": 11,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 11: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q12",
+      "index": 12,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 12: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q13",
+      "index": 13,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 13: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q14",
+      "index": 14,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 14: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q15",
+      "index": 15,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 15: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q16",
+      "index": 16,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 16: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q17",
+      "index": 17,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 17: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q18",
+      "index": 18,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 18: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q19",
+      "index": 19,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 19: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.75,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q20",
+      "index": 20,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 20: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q21",
+      "index": 21,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 21: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q22",
+      "index": 22,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 22: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q23",
+      "index": 23,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 23: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q24",
+      "index": 24,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 24: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q25",
+      "index": 25,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 25: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q26",
+      "index": 26,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 26: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q27",
+      "index": 27,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 27: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q28",
+      "index": 28,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 28: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q29",
+      "index": 29,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 29: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q30",
+      "index": 30,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 30: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q31",
+      "index": 31,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 31: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q32",
+      "index": 32,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 32: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q33",
+      "index": 33,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 33: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q34",
+      "index": 34,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 34: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q35",
+      "index": 35,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 35: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q36",
+      "index": 36,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 36: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q37",
+      "index": 37,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 37: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q38",
+      "index": 38,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 38: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q39",
+      "index": 39,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 39: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q40",
+      "index": 40,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 40: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q41",
+      "index": 41,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Portuguesa",
+      "topic": "Interpretação e Funções da Linguagem",
+      "context": "Texto de apoio da questão 41: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Interpretação e Funções da Linguagem na perspectiva de Língua Portuguesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é a correta. Em Interpretação e Funções da Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 1: Funções da Linguagem e Elementos da Comunicação",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q42",
+      "index": 42,
+      "area": "Linguagens e Códigos",
+      "discipline": "Literatura",
+      "topic": "Variação Linguística & Figuras de Linguagem",
+      "context": "Texto de apoio da questão 42: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Variação Linguística & Figuras de Linguagem na perspectiva de Literatura, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é a correta. Em Variação Linguística & Figuras de Linguagem, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 4: Semântica e Recursos Estilísticos",
+      "tri_params": {
+        "a": 1,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q43",
+      "index": 43,
+      "area": "Linguagens e Códigos",
+      "discipline": "Língua Inglesa",
+      "topic": "Modernismo no Brasil & Vanguardas",
+      "context": "Texto de apoio da questão 43: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Modernismo no Brasil & Vanguardas na perspectiva de Língua Inglesa, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é a correta. Em Modernismo no Brasil & Vanguardas, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 8: Semana de Arte Moderna e Fases Modernistas",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q44",
+      "index": 44,
+      "area": "Linguagens e Códigos",
+      "discipline": "Artes",
+      "topic": "Gêneros Digitais & Sociedade",
+      "context": "Texto de apoio da questão 44: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Gêneros Digitais & Sociedade na perspectiva de Artes, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é a correta. Em Gêneros Digitais & Sociedade, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 2: Hipertexto e Novos Letramentos",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q45",
+      "index": 45,
+      "area": "Linguagens e Códigos",
+      "discipline": "Educação Física",
+      "topic": "Compreensão Textual em Língua Estrangeira",
+      "context": "Texto de apoio da questão 45: \"A linguagem articula as representações simbólicas e a vivência sociocultural dos sujeitos em constante interação dialógica na esfera pública.\"",
+      "question": "Considerando os pressupostos comunicativos de Compreensão Textual em Língua Estrangeira na perspectiva de Educação Física, infere-se que o efeito de sentido predominante:",
+      "options": {
+        "A": "Subordina as convenções gramaticais ao uso padronizado formal sem considerar as variantes contextuais.",
+        "B": "Reforça uma leitura desvinculada das práticas sociais cotidianas vigentes no espaço urbano.",
+        "C": "Articula as intenções discursivas ao repertório de experiências e identidades dos interlocutores.",
+        "D": "Restringe a eficácia comunicativa ao cumprimento rígido da norma culta prescritiva.",
+        "E": "Desconsidera as marcas expressivas próprias dos gêneros contemporâneos emergentes."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é a correta. Em Compreensão Textual em Língua Estrangeira, o domínio discursivo integra tanto a dimensão contextual quanto as escolhas estilísticas dos sujeitos na produção de sentido.",
+      "study_reference": "Cap. 5: Estratégias de Skimming e Scanning",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q46",
+      "index": 46,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 46: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q47",
+      "index": 47,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 47: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q48",
+      "index": 48,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 48: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q49",
+      "index": 49,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 49: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q50",
+      "index": 50,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 50: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q51",
+      "index": 51,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 51: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q52",
+      "index": 52,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 52: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q53",
+      "index": 53,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 53: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q54",
+      "index": 54,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 54: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q55",
+      "index": 55,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 55: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q56",
+      "index": 56,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 56: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q57",
+      "index": 57,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 57: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q58",
+      "index": 58,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 58: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q59",
+      "index": 59,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 59: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q60",
+      "index": 60,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 60: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q61",
+      "index": 61,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 61: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q62",
+      "index": 62,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 62: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q63",
+      "index": 63,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 63: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q64",
+      "index": 64,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 64: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q65",
+      "index": 65,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 65: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q66",
+      "index": 66,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 66: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.45,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q67",
+      "index": 67,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 67: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q68",
+      "index": 68,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 68: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q69",
+      "index": 69,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 69: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q70",
+      "index": 70,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 70: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q71",
+      "index": 71,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 71: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q72",
+      "index": 72,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 72: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q73",
+      "index": 73,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 73: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q74",
+      "index": 74,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 74: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q75",
+      "index": 75,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 75: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q76",
+      "index": 76,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 76: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q77",
+      "index": 77,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 77: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q78",
+      "index": 78,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 78: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q79",
+      "index": 79,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 79: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q80",
+      "index": 80,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 80: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.45,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q81",
+      "index": 81,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 81: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.6,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q82",
+      "index": 82,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 82: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q83",
+      "index": 83,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 83: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q84",
+      "index": 84,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 84: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q85",
+      "index": 85,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 85: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q86",
+      "index": 86,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Brasil República (Vargas & Ditadura)",
+      "context": "Documento histórico / reflexão sociológica para a questão 86: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Brasil República (Vargas & Ditadura) demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. A análise crítica de Brasil República (Vargas & Ditadura) em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 12: Era Vargas e Regime Militar",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q87",
+      "index": 87,
+      "area": "Ciências Humanas",
+      "discipline": "Filosofia",
+      "topic": "Cidadania e Movimentos Sociais",
+      "context": "Documento histórico / reflexão sociológica para a questão 87: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Cidadania e Movimentos Sociais demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. A análise crítica de Cidadania e Movimentos Sociais em Filosofia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 7: Direitos Humanos e Cidadania",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q88",
+      "index": 88,
+      "area": "Ciências Humanas",
+      "discipline": "Sociologia",
+      "topic": "Geopolítica Contemporânea e Globalização",
+      "context": "Documento histórico / reflexão sociológica para a questão 88: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Geopolítica Contemporânea e Globalização demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. A análise crítica de Geopolítica Contemporânea e Globalização em Sociologia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 15: Nova Ordem Mundial e Blocos Econômicos",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q89",
+      "index": 89,
+      "area": "Ciências Humanas",
+      "discipline": "História",
+      "topic": "Urbanização e Questão Ambiental",
+      "context": "Documento histórico / reflexão sociológica para a questão 89: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Urbanização e Questão Ambiental demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. A análise crítica de Urbanização e Questão Ambiental em História exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 10: Dinâmica Urbana e Impactos Antrópicos",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q90",
+      "index": 90,
+      "area": "Ciências Humanas",
+      "discipline": "Geografia",
+      "topic": "Ética, Moral e Filosofia Política",
+      "context": "Documento histórico / reflexão sociológica para a questão 90: \"As transformações na estrutura social e os marcos institucionais revelam tensões históricas na consolidação dos direitos civis e da cidadania.\"",
+      "question": "A conjuntura histórica e conceitual abordada em relação a Ética, Moral e Filosofia Política demonstra que o processo analisado:",
+      "options": {
+        "A": "Resultou da imposição hegemônica desprovida de resistência ou mobilização popular organizada.",
+        "B": "Evidencia a articulação entre demandas populares, dinâmicas econômicas e disputas pelo poder institucional.",
+        "C": "Limitou-se a reformas administrativas sem repercussão nas condições concretas da população.",
+        "D": "Desconectou-se das matrizes culturais e das transformações do pensamento filosófico de sua época.",
+        "E": "Consolidou de forma definitiva e homogênea a igualdade material entre os diferentes grupos sociais."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. A análise crítica de Ética, Moral e Filosofia Política em Geografia exige a identificação dos conflitos sociais e contradições inerentes àquele momento histórico.",
+      "study_reference": "Cap. 3: Filosofia Antiga à Contemporânea",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.75,
+        "c": 0.2
+      }
+    }
+  ]
+}

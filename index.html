@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Simulado Oficial do ENEM com 90 questões cronometradas em 4h30, nota calculada pela Teoria de Resposta ao Item (TRI) e diagnóstico pedagógico com guia de estudos.">
+  <title>Simulado Enem Aprovejá</title>
+
+  <!-- Google Fonts: Plus Jakarta Sans & Space Grotesk -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Estilos da Aplicação -->
+  <link rel="stylesheet" href="./src/css/reset.css">
+  <link rel="stylesheet" href="./src/css/tokens.css">
+  <link rel="stylesheet" href="./src/css/app.css">
+</head>
+
+<body>
+
+  <!-- Topbar Fixa Desencavalada (52px) -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-logo">A</div>
+      <div class="brand-name">Aprovejá</div>
+      <span class="brand-badge">ENEM</span>
+    </div>
+
+    <div id="topbar-timer" class="timer-badge" style="display: none;">
+      <div class="timer-pulse"></div>
+      <span id="timer-display">04:30:00</span>
+    </div>
+  </header>
+
+  <!-- Container Principal -->
+  <main class="app-container">
+
+    <!-- Tela 1: Home / Seleção de Bloco -->
+    <section id="screen-home" class="screen active">
+      <div class="hero-box">
+        <div class="hero-badge">⚡ Modelo Oficial INEP / TRI</div>
+        <h1 class="hero-title">Treine no ritmo real do ENEM</h1>
+        <p class="hero-subtitle">90 questões cronometradas em 4h30, nota TRI e diagnóstico por área.</p>
+      </div>
+
+      <div class="block-selector-grid">
+        <div class="block-card selected" data-block="dia-1">
+          <span class="block-tag">1º DIA</span>
+          <h2 class="block-title">Linguagens & Humanas</h2>
+          <p class="block-desc">Português, Literatura, Inglês/Espanhol, Artes, Educação Física, História, Geografia, Filosofia e Sociologia.</p>
+          <div class="block-meta">
+            <span>📝 90 questões</span>
+            <span>⏱️ 4h 30min</span>
+          </div>
+        </div>
+
+        <div class="block-card" data-block="dia-2">
+          <span class="block-tag">2º DIA</span>
+          <h2 class="block-title">Natureza & Matemática</h2>
+          <p class="block-desc">Física, Química, Biologia e Matemática com todas as suas tecnologias.</p>
+          <div class="block-meta">
+            <span>📝 90 questões</span>
+            <span>⏱️ 4h 30min</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 14px;">
+        <button id="btn-start-exam" class="btn btn-primary" style="padding: 10px 24px;">
+          Iniciar Simulado →
+        </button>
+      </div>
+    </section>
+
+    <!-- Tela 2: Realização da Prova -->
+    <section id="screen-exam" class="screen">
+      <!-- Sub-header Desencavalado (Questão X de 90 + Área à esquerda | Revisar depois à direita) -->
+      <div class="exam-header-bar">
+        <div class="exam-header-left">
+          <span class="question-number" id="question-index-label">Questão 1 de 90</span>
+          <span class="area-badge" id="question-area-label">Linguagens e Códigos</span>
+        </div>
+        <button id="btn-flag-review" class="btn btn-flag">
+          🔖 Revisar depois
+        </button>
+      </div>
+
+      <!-- Card da Questão -->
+      <div class="question-card">
+        <div class="support-text" id="q-context"></div>
+        <div class="question-stem" id="q-stem">Carregando questão...</div>
+        <div class="options-list" id="q-options"></div>
+      </div>
+
+      <!-- Barra de Ações Sequenciais Limpa -->
+      <div class="exam-footer-bar">
+        <button id="btn-prev-question" class="btn btn-secondary">← Anterior</button>
+        <button id="btn-finish-exam" class="btn btn-danger">Finalizar Prova</button>
+        <button id="btn-next-question" class="btn btn-primary">Próxima →</button>
+      </div>
+    </section>
+
+    <!-- Tela 3: Resultado e Raio-X TRI -->
+    <section id="screen-result" class="screen">
+      <div class="result-hero">
+        <div class="score-label">Nota TRI Estimada</div>
+        <div class="score-number" id="result-general-score">---</div>
+        <div class="score-summary" id="result-general-summary">
+          Calculando seu aproveitamento...
+        </div>
+      </div>
+
+      <h3 style="margin-bottom: 10px; font-size: 0.95rem;">Desempenho por Área</h3>
+      <div class="areas-grid" id="result-areas-grid"></div>
+
+      <!-- Diagnóstico Pedagógico Personalizado -->
+      <h3 style="margin-bottom: 10px; font-size: 0.95rem;">Diagnóstico Pedagógico Personalizado</h3>
+
+      <!-- Pontos Fortes (Elogio) -->
+      <div class="diagnostic-card">
+        <div class="diagnostic-header">
+          <span class="diag-strength-badge">✨ Pontos Fortes</span>
+          <span>Domínio Consolidado</span>
+        </div>
+        <p style="font-size: 0.78rem; color: var(--text-muted);">
+          Excelente consistência TRI em conteúdos essenciais. Você garantiu pontos decisivos nos itens de nível fácil e médio:
+        </p>
+        <div class="topic-list" id="result-strengths-list"></div>
+      </div>
+
+      <!-- Atenção Prioritária (Déficit / Plano de Ação) -->
+      <div class="diagnostic-card">
+        <div class="diagnostic-header">
+          <span class="diag-focus-badge">🎯 Atenção Prioritária</span>
+          <span>Conteúdos para Alavancar sua Nota</span>
+        </div>
+        <p style="font-size: 0.78rem; color: var(--text-muted);">
+          Identificamos quedas de desempenho concentradas nos temas abaixo. Focar neles aumentará sua proficiência rapidamente:
+        </p>
+        <div class="topic-list" id="result-focus-list"></div>
+
+        <div class="study-tip-box" id="result-study-guide"></div>
+      </div>
+
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px;">
+        <button id="btn-go-review" class="btn btn-primary" style="flex: 1;">
+          🔍 Revisar Questões com Comentários
+        </button>
+        <button id="btn-new-exam" class="btn btn-secondary">
+          Novo Simulado
+        </button>
+      </div>
+    </section>
+
+    <!-- Tela 4: Revisão Contínua de Questões -->
+    <section id="screen-review" class="screen">
+      <div class="review-toolbar">
+        <div>
+          <h2>Revisão Comentada</h2>
+        </div>
+        <div class="filter-pills">
+          <button id="pill-all" class="filter-pill">Todas (90)</button>
+          <button id="pill-errors" class="filter-pill active">Apenas Erros</button>
+        </div>
+      </div>
+
+      <div id="review-items-container"></div>
+
+      <div style="text-align: center; margin-top: 18px;">
+        <button id="btn-back-result" class="btn btn-secondary">← Voltar ao Raio-X</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal de Confirmação Obrigatório ao Finalizar -->
+  <div id="finish-modal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-icon">⚠️</div>
+      <h3 class="modal-title">Finalizar Simulado?</h3>
+      <p class="modal-body">Você ainda possui tempo de prova. Deseja entregar e gerar o boletim com nota TRI?</p>
+      
+      <div class="modal-stats">
+        <div><strong style="color: #F59E0B;" id="modal-blank-count">0</strong> em branco</div>
+        <div><strong style="color: #60A5FA;" id="modal-review-count">0</strong> para revisar</div>
+      </div>
+
+      <div class="modal-actions">
+        <button id="btn-modal-cancel" class="btn btn-secondary">Continuar</button>
+        <button id="btn-modal-confirm" class="btn btn-danger">Entregar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Entrada da Aplicação Modular -->
+  <script type="module" src="./src/js/app.js"></script>
+</body>
+
+</html>

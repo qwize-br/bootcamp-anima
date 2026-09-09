@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-anima",
+  "version": "1.0.0",
+  "description": "Bem-vindo(a)! Este repositório é o ponto de partida do **seu** projeto no bootcamp. Você vai usar o mesmo kit e o mesmo processo que a **QWize usa em projetos reais** — e a IA faz o trabalho pesado. Você só responde as perguntas.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwize-br/bootcamp-anima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwize-br/bootcamp-anima/issues"
+  },
+  "homepage": "https://github.com/qwize-br/bootcamp-anima#readme",
+  "devDependencies": {
+    "jsdom": "^30.0.1",
+    "vitest": "^5.0.0"
+  }
+}

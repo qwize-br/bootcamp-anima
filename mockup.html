@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulado Enem Aprovejá — Mockup Navegável</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-main: #0B0F19;
+      --bg-card: #131A2A;
+      --bg-card-hover: #192338;
+      --bg-surface: #182236;
+      --border-subtle: #24304D;
+      --border-active: #3B82F6;
+      --primary: #2563EB;
+      --primary-light: #3B82F6;
+      --primary-glow: rgba(59, 130, 246, 0.2);
+      --accent: #F59E0B;
+      --accent-bg: rgba(245, 158, 11, 0.12);
+      --success: #10B981;
+      --success-bg: rgba(16, 185, 129, 0.12);
+      --danger: #EF4444;
+      --danger-bg: rgba(239, 68, 68, 0.12);
+      --text-main: #F8FAFC;
+      --text-muted: #94A3B8;
+      --text-dim: #64748B;
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+      min-height: 100vh;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* Topbar compacta e limpa */
+    .topbar {
+      height: 52px;
+      background: rgba(19, 26, 42, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border-subtle);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    .brand-logo {
+      width: 28px;
+      height: 28px;
+      background: linear-gradient(135deg, #2563EB 0%, #06B6D4 100%);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.9rem;
+    }
+
+    .brand-name {
+      font-family: 'Space Grotesk', sans-serif;
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+    }
+
+    .brand-badge {
+      font-size: 0.65rem;
+      background: var(--border-subtle);
+      color: var(--text-muted);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .timer-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: #0F172A;
+      border: 1px solid var(--border-subtle);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-family: 'Space Grotesk', monospace;
+      font-weight: 700;
+      font-size: 0.85rem;
+      color: #F1F5F9;
+    }
+
+    .timer-pulse {
+      width: 6px;
+      height: 6px;
+      background: var(--accent);
+      border-radius: 50%;
+    }
+
+    /* Container Principal */
+    .app-container {
+      max-width: 680px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 14px 14px 40px;
+    }
+
+    .screen {
+      display: none;
+    }
+
+    .screen.active {
+      display: block;
+    }
+
+    h1, h2, h3 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 8px 14px;
+      border-radius: var(--radius-md);
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.15s ease;
+      min-height: 38px;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-light);
+    }
+
+    .btn-secondary {
+      background: var(--bg-surface);
+      color: var(--text-main);
+      border-color: var(--border-subtle);
+    }
+
+    .btn-secondary:hover {
+      background: var(--bg-card-hover);
+    }
+
+    .btn-flag {
+      background: transparent;
+      color: var(--text-muted);
+      border-color: var(--border-subtle);
+      padding: 4px 10px;
+      font-size: 0.75rem;
+      min-height: 30px;
+    }
+
+    .btn-flag.active-flag {
+      background: var(--accent-bg);
+      color: var(--accent);
+      border-color: var(--accent);
+      font-weight: 700;
+    }
+
+    .btn-danger {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border-color: rgba(239, 68, 68, 0.3);
+    }
+
+    /* SCREEN 1: HOME */
+    .hero-box {
+      text-align: center;
+      padding: 24px 8px 20px;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #60A5FA;
+      margin-bottom: 12px;
+    }
+
+    .hero-title {
+      font-size: 1.55rem;
+      margin-bottom: 8px;
+    }
+
+    .hero-subtitle {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    .block-selector-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin: 20px 0;
+    }
+
+    .block-card {
+      background: var(--bg-card);
+      border: 1.5px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 16px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .block-card.selected {
+      border-color: var(--primary-light);
+      background: rgba(37, 99, 235, 0.08);
+    }
+
+    .block-tag {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: #38BDF8;
+      background: rgba(56, 189, 248, 0.12);
+      padding: 2px 6px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 6px;
+    }
+
+    .block-title {
+      font-size: 1.05rem;
+      margin-bottom: 4px;
+    }
+
+    .block-desc {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .block-meta {
+      display: flex;
+      gap: 12px;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+    }
+
+    /* SCREEN 2: EXAM (COMPACTO E FLUIDO) */
+    .exam-header-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .exam-header-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .question-number {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #F8FAFC;
+    }
+
+    .area-badge {
+      font-size: 0.68rem;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: #93C5FD;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .question-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 16px;
+      margin-bottom: 14px;
+    }
+
+    .support-text {
+      background: rgba(11, 15, 25, 0.6);
+      border-left: 2.5px solid #3B82F6;
+      padding: 10px 12px;
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      font-size: 0.82rem;
+      color: #CBD5E1;
+      margin-bottom: 12px;
+      line-height: 1.45;
+    }
+
+    .question-stem {
+      font-size: 0.88rem;
+      font-weight: 600;
+      margin-bottom: 14px;
+      color: var(--text-main);
+      line-height: 1.45;
+    }
+
+    .options-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .option-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      cursor: pointer;
+      transition: all 0.1s ease;
+    }
+
+    .option-item:hover {
+      background: var(--bg-card-hover);
+      border-color: #3B82F6;
+    }
+
+    .option-item.selected {
+      background: rgba(37, 99, 235, 0.16);
+      border-color: #3B82F6;
+    }
+
+    .option-key {
+      width: 22px;
+      height: 22px;
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.08);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Space Grotesk', sans-serif;
+      font-weight: 700;
+      font-size: 0.75rem;
+      flex-shrink: 0;
+      color: var(--text-muted);
+    }
+
+    .option-item.selected .option-key {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .option-text {
+      font-size: 0.82rem;
+      color: var(--text-main);
+      line-height: 1.4;
+    }
+
+    .exam-footer-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    /* SCREEN 3: RESULTADOS COMPACTO */
+    .result-hero {
+      text-align: center;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 20px 14px;
+      margin-bottom: 16px;
+    }
+
+    .score-label {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .score-number {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 2.6rem;
+      font-weight: 800;
+      background: linear-gradient(180deg, #FFFFFF 0%, #60A5FA 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1.1;
+      margin-bottom: 4px;
+    }
+
+    .score-summary {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .areas-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    @media (max-width: 520px) {
+      .areas-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .area-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 12px;
+    }
+
+    .area-card-title {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .area-card-score {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #F8FAFC;
+    }
+
+    .area-card-ratio {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+    }
+
+    /* Diagnóstico Didático & Recomendações */
+    .diagnostic-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 14px;
+      margin-bottom: 12px;
+    }
+
+    .diagnostic-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .diag-strength-badge {
+      background: var(--success-bg);
+      color: var(--success);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+
+    .diag-focus-badge {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+
+    .topic-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-top: 8px;
+    }
+
+    .topic-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      padding: 8px 10px;
+      border-radius: var(--radius-sm);
+      font-size: 0.78rem;
+    }
+
+    .topic-name {
+      color: #E2E8F0;
+      font-weight: 500;
+    }
+
+    .topic-tag {
+      font-size: 0.68rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .tag-urgent {
+      background: rgba(239, 68, 68, 0.2);
+      color: #F87171;
+    }
+
+    .tag-mastered {
+      background: rgba(16, 185, 129, 0.2);
+      color: #34D399;
+    }
+
+    .study-tip-box {
+      background: rgba(37, 99, 235, 0.08);
+      border-left: 3px solid #3B82F6;
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 10px 12px;
+      font-size: 0.78rem;
+      color: #BFDBFE;
+      margin-top: 10px;
+      line-height: 1.4;
+    }
+
+    /* SCREEN 4: REVISÃO */
+    .review-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .review-toolbar h2 {
+      font-size: 1.05rem;
+    }
+
+    .filter-pills {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-pill {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .filter-pill.active {
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+    }
+
+    .review-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 14px;
+      margin-bottom: 12px;
+    }
+
+    .review-badge-status {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .status-correct {
+      background: var(--success-bg);
+      color: var(--success);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .status-wrong {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+    }
+
+    .review-choice {
+      padding: 8px 10px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 6px;
+      font-size: 0.78rem;
+    }
+
+    .choice-wrong {
+      background: var(--danger-bg);
+      border: 1px solid rgba(239, 68, 68, 0.35);
+      color: #FCA5A5;
+    }
+
+    .choice-correct {
+      background: var(--success-bg);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      color: #6EE7B7;
+    }
+
+    .explanation-box {
+      margin-top: 10px;
+      background: rgba(15, 23, 42, 0.7);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 10px;
+      font-size: 0.78rem;
+      color: #CBD5E1;
+      line-height: 1.4;
+    }
+
+    .explanation-title {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #60A5FA;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    /* Modal */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(4px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 14px;
+      z-index: 100;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+    }
+
+    .modal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      max-width: 380px;
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .modal-icon {
+      font-size: 1.4rem;
+      margin-bottom: 8px;
+    }
+
+    .modal-title {
+      font-size: 1.1rem;
+      margin-bottom: 6px;
+    }
+
+    .modal-body {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    .modal-stats {
+      background: var(--bg-surface);
+      border-radius: var(--radius-sm);
+      padding: 10px;
+      margin: 10px 0 16px;
+      display: flex;
+      justify-content: space-around;
+      font-size: 0.8rem;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .modal-actions .btn {
+      flex: 1;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="brand" onclick="goToScreen('screen-home')">
+      <div class="brand-logo">A</div>
+      <div class="brand-name">Aprovejá</div>
+      <span class="brand-badge">ENEM</span>
+    </div>
+
+    <div id="topbar-timer" class="timer-badge" style="display: none;">
+      <div class="timer-pulse"></div>
+      <span id="timer-display">04:29:45</span>
+    </div>
+  </header>
+
+  <main class="app-container">
+
+    <!-- Screen 1: Home / Seleção de Bloco -->
+    <section id="screen-home" class="screen active">
+      <div class="hero-box">
+        <div class="hero-badge">⚡ Modelo Oficial INEP / TRI</div>
+        <h1 class="hero-title">Treine no ritmo real do ENEM</h1>
+        <p class="hero-subtitle">90 questões cronometradas em 4h30, nota TRI e diagnóstico por área.</p>
+      </div>
+
+      <div class="block-selector-grid">
+        <div class="block-card selected" onclick="selectBlock(this, 'dia-1')">
+          <span class="block-tag">1º DIA</span>
+          <h2 class="block-title">Linguagens & Humanas</h2>
+          <p class="block-desc">Português, Literatura, Inglês/Espanhol, Artes, História, Geografia, Filosofia e Sociologia.</p>
+          <div class="block-meta">
+            <span>📝 90 questões</span>
+            <span>⏱️ 4h 30min</span>
+          </div>
+        </div>
+
+        <div class="block-card" onclick="selectBlock(this, 'dia-2')">
+          <span class="block-tag">2º DIA</span>
+          <h2 class="block-title">Natureza & Matemática</h2>
+          <p class="block-desc">Física, Química, Biologia e Matemática com todas as tecnologias.</p>
+          <div class="block-meta">
+            <span>📝 90 questões</span>
+            <span>⏱️ 4h 30min</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 14px;">
+        <button class="btn btn-primary" style="padding: 10px 24px;" onclick="startExam()">
+          Iniciar Simulado →
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 2: Realização da Prova -->
+    <section id="screen-exam" class="screen">
+      <!-- Header do Exame Desencavalado e Fluido -->
+      <div class="exam-header-bar">
+        <div class="exam-header-left">
+          <span class="question-number" id="question-index-label">Questão 1 de 90</span>
+          <span class="area-badge" id="question-area-label">Linguagens</span>
+        </div>
+        <button id="btn-flag-review" class="btn btn-flag" onclick="toggleReviewFlag()">
+          🔖 Revisar depois
+        </button>
+      </div>
+
+      <div class="question-card">
+        <div class="support-text" id="q-context">
+          "A leitura do mundo precede a leitura da palavra, daí que a posterior leitura desta não possa prescindir da continuidade da leitura daquele. Linguagem e realidade se prendem dinamicamente." (Paulo Freire, A importância do ato de ler)
+        </div>
+
+        <div class="question-stem" id="q-stem">
+          Ao defender a relação indissociável entre a "leitura do mundo" e a "leitura da palavra", o fragmento textual sustenta que o aprendizado linguístico:
+        </div>
+
+        <div class="options-list" id="q-options">
+          <div class="option-item" onclick="selectOption('A')">
+            <span class="option-key">A</span>
+            <span class="option-text">Subordina a percepção empírica das vivências ao domínio formal das normas gramaticais.</span>
+          </div>
+          <div class="option-item" onclick="selectOption('B')">
+            <span class="option-key">B</span>
+            <span class="option-text">Depende exclusivamente da instrução escolar formal e descontextualizada.</span>
+          </div>
+          <div class="option-item selected" onclick="selectOption('C')">
+            <span class="option-key">C</span>
+            <span class="option-text">Articula-se continuamente com a experiência social e cultural prévia do indivíduo.</span>
+          </div>
+          <div class="option-item" onclick="selectOption('D')">
+            <span class="option-key">D</span>
+            <span class="option-text">Desconsidera as vivências comunitárias na constituição do repertório crítico.</span>
+          </div>
+          <div class="option-item" onclick="selectOption('E')">
+            <span class="option-key">E</span>
+            <span class="option-text">Restringe a capacidade interpretativa aos parâmetros estritos do código alfabético.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="exam-footer-bar">
+        <button class="btn btn-secondary" onclick="prevQuestion()">← Anterior</button>
+        <button class="btn btn-danger" onclick="openFinishModal()">Finalizar Prova</button>
+        <button class="btn btn-primary" onclick="nextQuestion()">Próxima →</button>
+      </div>
+    </section>
+
+    <!-- Screen 3: Resultado e Raio-X TRI -->
+    <section id="screen-result" class="screen">
+      <div class="result-hero">
+        <div class="score-label">Nota TRI Estimada</div>
+        <div class="score-number">714.8</div>
+        <div class="score-summary">
+          Você acertou <strong>68 de 90 questões</strong> (75.5%)
+        </div>
+      </div>
+
+      <h3 style="margin-bottom: 10px; font-size: 0.95rem;">Desempenho por Área</h3>
+      <div class="areas-grid">
+        <div class="area-card">
+          <div class="area-card-title">Linguagens e Códigos</div>
+          <div class="area-card-score">682.0 <span style="font-size: 0.75rem; font-weight: normal; color: #94A3B8;">pts</span></div>
+          <div class="area-card-ratio">33/45 acertos (73%)</div>
+        </div>
+        <div class="area-card">
+          <div class="area-card-title">Ciências Humanas</div>
+          <div class="area-card-score">747.5 <span style="font-size: 0.75rem; font-weight: normal; color: #94A3B8;">pts</span></div>
+          <div class="area-card-ratio">35/45 acertos (78%)</div>
+        </div>
+      </div>
+
+      <!-- Diagnóstico Pedagógico Rico -->
+      <h3 style="margin-bottom: 10px; font-size: 0.95rem;">Diagnóstico Pedagógico Personalizado</h3>
+
+      <!-- O que você mandou bem (Elogio) -->
+      <div class="diagnostic-card">
+        <div class="diagnostic-header">
+          <span class="diag-strength-badge">✨ Pontos Fortes</span>
+          <span>Domínio Consolidado</span>
+        </div>
+        <p style="font-size: 0.78rem; color: var(--text-muted);">
+          Excelente consistência TRI em questões interpretativas e históricas. Você garantiu pontos cruciais nos itens fáceis e médios:
+        </p>
+        <div class="topic-list">
+          <div class="topic-item">
+            <span class="topic-name">Interpretação e Funções da Linguagem</span>
+            <span class="topic-tag tag-mastered">91% de acertos</span>
+          </div>
+          <div class="topic-item">
+            <span class="topic-name">Cidadania e Movimentos Sociais</span>
+            <span class="topic-tag tag-mastered">85% de acertos</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Onde focar (Déficit / Plano de Ação) -->
+      <div class="diagnostic-card">
+        <div class="diagnostic-header">
+          <span class="diag-focus-badge">🎯 Atenção Prioritária</span>
+          <span>Conteúdos para Alavancar sua Nota</span>
+        </div>
+        <p style="font-size: 0.78rem; color: var(--text-muted);">
+          Identificamos quedas de desempenho concentradas nestes 2 temas. Focar neles aumentará sua proficiência rapidamente:
+        </p>
+        <div class="topic-list">
+          <div class="topic-item">
+            <div>
+              <div class="topic-name">Brasil República (Vargas & Ditadura)</div>
+              <div style="font-size: 0.7rem; color: #94A3B8;">Errou 3 de 4 questões deste tema</div>
+            </div>
+            <span class="topic-tag tag-urgent">Revisão Urgente</span>
+          </div>
+          <div class="topic-item">
+            <div>
+              <div class="topic-name">Variação Linguística & Figuras de Linguagem</div>
+              <div style="font-size: 0.7rem; color: #94A3B8;">Errou 2 de 3 questões deste tema</div>
+            </div>
+            <span class="topic-tag tag-urgent">Revisão Urgente</span>
+          </div>
+        </div>
+
+        <div class="study-tip-box">
+          <strong>📚 Guia de Estudo Recomendado:</strong>
+          <div style="margin-top: 4px;">
+            1. Revise a <strong>Era Vargas e a Revolução de 1932</strong> (cap. 12 do módulo de História).<br>
+            2. Pratique 10 exercícios comentados de <strong>Metáfora vs Metonímia</strong>.<br>
+            3. Acesse a lista das suas questões erradas logo abaixo.
+          </div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px;">
+        <button class="btn btn-primary" style="flex: 1;" onclick="goToReview()">
+          🔍 Revisar Questões com Comentários
+        </button>
+        <button class="btn btn-secondary" onclick="resetToHome()">
+          Novo Simulado
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 4: Revisão Contínua -->
+    <section id="screen-review" class="screen">
+      <div class="review-toolbar">
+        <div>
+          <h2>Revisão Comentada</h2>
+        </div>
+        <div class="filter-pills">
+          <button id="pill-all" class="filter-pill" onclick="filterReview(false)">Todas (90)</button>
+          <button id="pill-errors" class="filter-pill active" onclick="filterReview(true)">Apenas Erros (22)</button>
+        </div>
+      </div>
+
+      <!-- Item 1 de Revisão (Errada) -->
+      <div class="review-item" data-type="wrong">
+        <div class="review-badge-status status-wrong">
+          ✕ Questão 14 — Você errou
+        </div>
+        <div class="question-stem" style="margin-bottom: 10px;">
+          Durante a Revolução Constitucionalista de 1932 em São Paulo, os cartazes de propaganda de guerra mobilizavam símbolos que pretendiam:
+        </div>
+
+        <div class="review-choice choice-wrong">
+          <strong>Sua resposta:</strong> B) Unificar o operariado paulista em torno de pautas de Vargas.
+        </div>
+        <div class="review-choice choice-correct">
+          <strong>Gabarito oficial:</strong> D) Retomar a tradição bandeirante como signo de autonomia regional.
+        </div>
+
+        <div class="explanation-box">
+          <div class="explanation-title">💡 Justificativa Didática</div>
+          A alternativa D está correta. A propaganda paulista de 1932 resgatou o mito bandeirante para incitar o orgulho estadual contra o governo de Vargas.
+        </div>
+      </div>
+
+      <!-- Item 2 de Revisão (Acertada) -->
+      <div class="review-item" data-type="correct" style="display: none;">
+        <div class="review-badge-status status-correct">
+          ✓ Questão 1 — Você acertou
+        </div>
+        <div class="question-stem" style="margin-bottom: 10px;">
+          Ao defender a relação indissociável entre a "leitura do mundo" e a "leitura da palavra", o fragmento textual sustenta que o aprendizado linguístico:
+        </div>
+
+        <div class="review-choice choice-correct">
+          <strong>Sua resposta & Gabarito:</strong> C) Articula-se continuamente com a experiência social prévia.
+        </div>
+
+        <div class="explanation-box">
+          <div class="explanation-title">💡 Justificativa Didática</div>
+          Paulo Freire defende que a alfabetização só ganha sentido pleno quando ancorada na vivência real e concreta do educando.
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 18px;">
+        <button class="btn btn-secondary" onclick="goToScreen('screen-result')">← Voltar ao Raio-X</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal de Confirmação de Entrega -->
+  <div id="finish-modal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-icon">⚠️</div>
+      <h3 class="modal-title">Finalizar Simulado?</h3>
+      <p class="modal-body">Você ainda tem tempo de prova. Deseja entregar e gerar o boletim com nota TRI?</p>
+      
+      <div class="modal-stats">
+        <div><strong style="color: #F59E0B;" id="modal-blank-count">12</strong> em branco</div>
+        <div><strong style="color: #60A5FA;" id="modal-review-count">3</strong> para revisar</div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn btn-secondary" onclick="closeFinishModal()">Continuar</button>
+        <button class="btn btn-danger" onclick="confirmFinishExam()">Entregar</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let currentScreen = 'screen-home';
+    let currentQuestion = 1;
+    let isReviewFlagged = false;
+    let selectedBlock = 'dia-1';
+
+    function goToScreen(screenId) {
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      const target = document.getElementById(screenId);
+      if (target) target.classList.add('active');
+      currentScreen = screenId;
+
+      const timerBar = document.getElementById('topbar-timer');
+      timerBar.style.display = (screenId === 'screen-exam') ? 'flex' : 'none';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function selectBlock(card, blockId) {
+      document.querySelectorAll('.block-card').forEach(c => c.classList.remove('selected'));
+      card.classList.add('selected');
+      selectedBlock = blockId;
+    }
+
+    function startExam() {
+      currentQuestion = 1;
+      goToScreen('screen-exam');
+    }
+
+    function selectOption(optKey) {
+      const items = document.querySelectorAll('#q-options .option-item');
+      items.forEach(it => {
+        it.classList.remove('selected');
+        if (it.querySelector('.option-key').textContent.trim() === optKey) {
+          it.classList.add('selected');
+        }
+      });
+    }
+
+    function toggleReviewFlag() {
+      isReviewFlagged = !isReviewFlagged;
+      const btn = document.getElementById('btn-flag-review');
+      if (isReviewFlagged) {
+        btn.classList.add('active-flag');
+        btn.innerHTML = '🚩 Marcada';
+      } else {
+        btn.classList.remove('active-flag');
+        btn.innerHTML = '🔖 Revisar depois';
+      }
+    }
+
+    function nextQuestion() {
+      if (currentQuestion < 90) {
+        currentQuestion++;
+        updateQuestionView();
+      }
+    }
+
+    function prevQuestion() {
+      if (currentQuestion > 1) {
+        currentQuestion--;
+        updateQuestionView();
+      }
+    }
+
+    function updateQuestionView() {
+      document.getElementById('question-index-label').textContent = `Questão ${currentQuestion} de 90`;
+      document.getElementById('question-area-label').textContent = currentQuestion <= 45 ? 'Linguagens' : 'Humanas';
+      isReviewFlagged = false;
+      const btn = document.getElementById('btn-flag-review');
+      btn.classList.remove('active-flag');
+      btn.innerHTML = '🔖 Revisar depois';
+    }
+
+    function openFinishModal() {
+      document.getElementById('finish-modal').classList.add('active');
+    }
+
+    function closeFinishModal() {
+      document.getElementById('finish-modal').classList.remove('active');
+    }
+
+    function confirmFinishExam() {
+      closeFinishModal();
+      goToScreen('screen-result');
+    }
+
+    function goToReview() {
+      goToScreen('screen-review');
+    }
+
+    function filterReview(onlyErrors) {
+      document.getElementById('pill-all').classList.toggle('active', !onlyErrors);
+      document.getElementById('pill-errors').classList.toggle('active', onlyErrors);
+
+      const items = document.querySelectorAll('.review-item');
+      items.forEach(it => {
+        if (onlyErrors && it.dataset.type === 'correct') {
+          it.style.display = 'none';
+        } else {
+          it.style.display = 'block';
+        }
+      });
+    }
+
+    function resetToHome() {
+      goToScreen('screen-home');
+    }
+  </script>
+</body>
+
+</html>

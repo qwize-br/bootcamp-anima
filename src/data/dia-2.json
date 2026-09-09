@@ -1,0 +1,2168 @@
+{
+  "block_id": "dia-2",
+  "name": "Dia 2 — Ciências da Natureza e Matemática",
+  "duration_seconds": 16200,
+  "total_questions": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "index": 1,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 1: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Física, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q2",
+      "index": 2,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 2: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Química, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q3",
+      "index": 3,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 3: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Biologia, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q4",
+      "index": 4,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 4: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Física, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.6,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q5",
+      "index": 5,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 5: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Química, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.75,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q6",
+      "index": 6,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 6: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Biologia, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q7",
+      "index": 7,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 7: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Física, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q8",
+      "index": 8,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 8: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Química, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q9",
+      "index": 9,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 9: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Biologia, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q10",
+      "index": 10,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 10: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Física, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q11",
+      "index": 11,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 11: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Química, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q12",
+      "index": 12,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 12: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Biologia, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q13",
+      "index": 13,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 13: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Física, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q14",
+      "index": 14,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 14: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Química, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q15",
+      "index": 15,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 15: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Biologia, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q16",
+      "index": 16,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 16: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Física, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q17",
+      "index": 17,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 17: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Química, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q18",
+      "index": 18,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 18: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Biologia, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q19",
+      "index": 19,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 19: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Física, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.75,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q20",
+      "index": 20,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 20: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Química, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q21",
+      "index": 21,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 21: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Biologia, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q22",
+      "index": 22,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 22: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Física, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q23",
+      "index": 23,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 23: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Química, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q24",
+      "index": 24,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 24: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Biologia, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q25",
+      "index": 25,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 25: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Física, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q26",
+      "index": 26,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 26: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Química, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q27",
+      "index": 27,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 27: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Biologia, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q28",
+      "index": 28,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 28: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Física, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q29",
+      "index": 29,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 29: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Química, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q30",
+      "index": 30,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 30: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Biologia, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.3,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q31",
+      "index": 31,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 31: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Física, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q32",
+      "index": 32,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 32: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Química, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q33",
+      "index": 33,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 33: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Biologia, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q34",
+      "index": 34,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 34: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Física, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.9,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q35",
+      "index": 35,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 35: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Química, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q36",
+      "index": 36,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 36: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Biologia, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q37",
+      "index": 37,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 37: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Física, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1.3,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q38",
+      "index": 38,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 38: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Química, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q39",
+      "index": 39,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 39: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Biologia, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q40",
+      "index": 40,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 40: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Física, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q41",
+      "index": 41,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Ecologia e Ciclos Biogeoquímicos",
+      "context": "Situação-problema / experimento para a questão 41: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Ecologia e Ciclos Biogeoquímicos, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Ecologia e Ciclos Biogeoquímicos, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D é o gabarito. De acordo com os fundamentos de Química, Ecologia e Ciclos Biogeoquímicos obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 6: Ecossistemas e Preservação Ambiental",
+      "tri_params": {
+        "a": 1.9,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q42",
+      "index": 42,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Cinemática e Dinâmica Newtoniana",
+      "context": "Situação-problema / experimento para a questão 42: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Cinemática e Dinâmica Newtoniana, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Cinemática e Dinâmica Newtoniana, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E é o gabarito. De acordo com os fundamentos de Biologia, Cinemática e Dinâmica Newtoniana obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 2: Mecânica e Leis de Newton",
+      "tri_params": {
+        "a": 1,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q43",
+      "index": 43,
+      "area": "Ciências da Natureza",
+      "discipline": "Física",
+      "topic": "Termologia e Ondulatória",
+      "context": "Situação-problema / experimento para a questão 43: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Termologia e Ondulatória, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Física aplicadas a Termologia e Ondulatória, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A é o gabarito. De acordo com os fundamentos de Física, Termologia e Ondulatória obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 9: Fenômenos Ondulatórios e Calorimetria",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q44",
+      "index": 44,
+      "area": "Ciências da Natureza",
+      "discipline": "Química",
+      "topic": "Estequiometria e Soluções",
+      "context": "Situação-problema / experimento para a questão 44: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Estequiometria e Soluções, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Química aplicadas a Estequiometria e Soluções, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B é o gabarito. De acordo com os fundamentos de Química, Estequiometria e Soluções obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 5: Cálculos Químicos e Concentração",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q45",
+      "index": 45,
+      "area": "Ciências da Natureza",
+      "discipline": "Biologia",
+      "topic": "Química Orgânica e Reações",
+      "context": "Situação-problema / experimento para a questão 45: \"Em um ensaio laboratorial controlado envolvendo fenômenos de Química Orgânica e Reações, investigou-se a variação dos parâmetros de rendimento energético e conservação ambiental.\"",
+      "question": "Com base nas leis fundamentais de Biologia aplicadas a Química Orgânica e Reações, a consequência física/química/biológica observada é explicada por:",
+      "options": {
+        "A": "Aumento desproporcional da entropia que inviabiliza o reaproveitamento energético do sistema.",
+        "B": "Equilíbrio dinâmico assegurado pela preservação dos fluxos de matéria e estabilidade térmica.",
+        "C": "Otimização das interações moleculares decorrente do gradiente de concentração estabelecido.",
+        "D": "Interrupção dos ciclos naturais provocada pela saturação dos agentes catalisadores presentes.",
+        "E": "Rendimento constante independentemente das variações térmicas ou pressões parciais envolvidas."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C é o gabarito. De acordo com os fundamentos de Biologia, Química Orgânica e Reações obedece às relações de proporcionalidade e conservação postuladas.",
+      "study_reference": "Cap. 11: Funções Orgânicas e Isomeria",
+      "tri_params": {
+        "a": 1.45,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q46",
+      "index": 46,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 46 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q47",
+      "index": 47,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 47 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q48",
+      "index": 48,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 48 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q49",
+      "index": 49,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 49 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q50",
+      "index": 50,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 50 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q51",
+      "index": 51,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 51 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q52",
+      "index": 52,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 52 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.45,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q53",
+      "index": 53,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 53 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q54",
+      "index": 54,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 54 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q55",
+      "index": 55,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 55 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q56",
+      "index": 56,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 56 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q57",
+      "index": 57,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 57 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q58",
+      "index": 58,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 58 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q59",
+      "index": 59,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 59 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q60",
+      "index": 60,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 60 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.6,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q61",
+      "index": 61,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 61 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q62",
+      "index": 62,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 62 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q63",
+      "index": 63,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 63 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q64",
+      "index": 64,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 64 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.15,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q65",
+      "index": 65,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 65 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q66",
+      "index": 66,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 66 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.45,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q67",
+      "index": 67,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 67 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.6,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q68",
+      "index": 68,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 68 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q69",
+      "index": 69,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 69 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q70",
+      "index": 70,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 70 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q71",
+      "index": 71,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 71 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.15,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q72",
+      "index": 72,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 72 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q73",
+      "index": 73,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 73 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q74",
+      "index": 74,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 74 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q75",
+      "index": 75,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 75 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.75,
+        "b": -1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q76",
+      "index": 76,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 76 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q77",
+      "index": 77,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 77 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1,
+        "b": -1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q78",
+      "index": 78,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 78 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.15,
+        "b": -1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q79",
+      "index": 79,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 79 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.3,
+        "b": -0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q80",
+      "index": 80,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 80 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.45,
+        "b": -0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q81",
+      "index": 81,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 81 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.6,
+        "b": -0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q82",
+      "index": 82,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 82 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.75,
+        "b": 0,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q83",
+      "index": 83,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 83 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.9,
+        "b": 0.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q84",
+      "index": 84,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 84 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1,
+        "b": 0.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q85",
+      "index": 85,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 85 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.15,
+        "b": 0.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q86",
+      "index": 86,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Razão, Proporção e Regra de Três",
+      "context": "Um estudo analítico para a questão 86 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Razão, Proporção e Regra de Três.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Razão, Proporção e Regra de Três, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "D",
+      "explanation": "A alternativa D está correta. O cálculo de Razão, Proporção e Regra de Três resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 1: Matemática Básica e Proporcionalidade",
+      "tri_params": {
+        "a": 1.3,
+        "b": 1,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q87",
+      "index": 87,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Estatística e Probabilidade",
+      "context": "Um estudo analítico para a questão 87 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Estatística e Probabilidade.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Estatística e Probabilidade, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "E",
+      "explanation": "A alternativa E está correta. O cálculo de Estatística e Probabilidade resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 14: Médias, Mediana e Análise Combinatória",
+      "tri_params": {
+        "a": 1.45,
+        "b": 1.25,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q88",
+      "index": 88,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Funções de 1º e 2º Graus",
+      "context": "Um estudo analítico para a questão 88 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Funções de 1º e 2º Graus.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Funções de 1º e 2º Graus, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "A",
+      "explanation": "A alternativa A está correta. O cálculo de Funções de 1º e 2º Graus resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 4: Álgebra e Modelagem de Funções",
+      "tri_params": {
+        "a": 1.6,
+        "b": 1.5,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q89",
+      "index": 89,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Geometria Espacial e Planificação",
+      "context": "Um estudo analítico para a questão 89 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Geometria Espacial e Planificação.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Geometria Espacial e Planificação, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "B",
+      "explanation": "A alternativa B está correta. O cálculo de Geometria Espacial e Planificação resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 10: Prismas, Cilindros e Volumes",
+      "tri_params": {
+        "a": 1.75,
+        "b": 1.75,
+        "c": 0.2
+      }
+    },
+    {
+      "id": "q90",
+      "index": 90,
+      "area": "Matemática e suas Tecnologias",
+      "discipline": "Matemática",
+      "topic": "Trigonometria e Geometria Plana",
+      "context": "Um estudo analítico para a questão 90 mensurou as projeções operacionais em que uma grandeza varia de acordo com os princípios de Trigonometria e Geometria Plana.",
+      "question": "Analisando os dados coletados e aplicando os modelos algébricos e geométricos pertinentes a Trigonometria e Geometria Plana, o valor calculado corresponde a:",
+      "options": {
+        "A": "Um decréscimo percentual linear incompatível com a progressão geométrica observada.",
+        "B": "Uma taxa de variação constante correspondente à inclinação da reta secante ao gráfico.",
+        "C": "O ponto ótimo determinado pela ordenada do vértice da parábola de projeção.",
+        "D": "A razão proporcional direta entre os coeficientes angulares das grandezas associadas.",
+        "E": "O volume equivalente delimitado pela secção transversal do sólido de revolução considerado."
+      },
+      "correct": "C",
+      "explanation": "A alternativa C está correta. O cálculo de Trigonometria e Geometria Plana resulta na determinação exata da grandeza aplicando os princípios métricos pertinentes.",
+      "study_reference": "Cap. 7: Áreas de Figuras Planas e Razões Trigonométricas",
+      "tri_params": {
+        "a": 1.9,
+        "b": -1.75,
+        "c": 0.2
+      }
+    }
+  ]
+}
